@@ -32,7 +32,9 @@ import tripguide from "./tripguide.png";
 import crypto from "./crypto.png"
 import managewise from "./managewise.png"
 import ecommerce from "./ecommerce.png"
+import CodingNinjas from "./CodingNinjas.png"
 export {
+  CodingNinjas,
   crypto,
   managewise,
   ecommerce,
